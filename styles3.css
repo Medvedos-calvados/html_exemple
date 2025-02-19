@@ -1,0 +1,36 @@
+body {
+    font-size: 24px;
+}
+p.green {
+    color: rgb(0, 255, 21);
+}
+p.red {
+    color: rgb(255, 4, 4);
+}
+p.blue {
+    color: rgb(47, 0, 255);
+}
+li.green {
+    color: rgb(0, 255, 42);
+}
+li.red {
+    color: rgb(255, 0, 0);
+}
+li.blue {
+    color: rgb(21, 0, 255);
+}
+ul ol li.red {
+    color: rgb(255, 0, 0);
+}
+ul ol li.green {
+    color: rgb(26, 255, 0);
+}
+ul ol li.blue {
+    color: rgb(0, 21, 255);
+}
+p.bold {
+    font-weight: bold;
+}
+p.italic {
+    font-style: italic;
+}
